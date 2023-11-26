@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Digital-Instruments/static/css/main.387394c4.css",
+    "main.js": "/Digital-Instruments/static/js/main.255aa2b9.js",
+    "static/js/486.f4ff8a54.chunk.js": "/Digital-Instruments/static/js/486.f4ff8a54.chunk.js",
+    "static/js/787.0ab0c0c7.chunk.js": "/Digital-Instruments/static/js/787.0ab0c0c7.chunk.js",
+    "module.wasm": "/Digital-Instruments/fbb2f8122061bd59260a.module.wasm",
+    "index.html": "/Digital-Instruments/index.html",
+    "main.387394c4.css.map": "/Digital-Instruments/static/css/main.387394c4.css.map",
+    "main.255aa2b9.js.map": "/Digital-Instruments/static/js/main.255aa2b9.js.map",
+    "486.f4ff8a54.chunk.js.map": "/Digital-Instruments/static/js/486.f4ff8a54.chunk.js.map",
+    "787.0ab0c0c7.chunk.js.map": "/Digital-Instruments/static/js/787.0ab0c0c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.387394c4.css",
+    "static/js/main.255aa2b9.js"
+  ]
+}
