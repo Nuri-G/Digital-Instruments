@@ -47,5 +47,5 @@
     "tailwindcss": "^4.1.8"
   },
   "cracoConfig": "config/craco.config.js",
-  "homepage": "/Digital-Instruments"
+  "homepage": "."
 }
