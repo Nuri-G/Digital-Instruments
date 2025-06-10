@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7325d5b6.css",
-    "main.js": "/static/js/main.cdb7c46e.js",
-    "static/js/451.4b33675f.chunk.js": "/static/js/451.4b33675f.chunk.js",
-    "static/js/453.45d23fe2.chunk.js": "/static/js/453.45d23fe2.chunk.js",
-    "module.wasm": "/4f34f314c3468ca212fb.module.wasm",
-    "index.html": "/index.html",
-    "main.7325d5b6.css.map": "/static/css/main.7325d5b6.css.map",
-    "main.cdb7c46e.js.map": "/static/js/main.cdb7c46e.js.map",
-    "451.4b33675f.chunk.js.map": "/static/js/451.4b33675f.chunk.js.map",
-    "453.45d23fe2.chunk.js.map": "/static/js/453.45d23fe2.chunk.js.map"
+    "main.css": "/Digital-Instruments/static/css/main.d5e18b24.css",
+    "main.js": "/Digital-Instruments/static/js/main.7bad6994.js",
+    "static/js/994.9eeff600.chunk.js": "/Digital-Instruments/static/js/994.9eeff600.chunk.js",
+    "static/js/245.04564317.chunk.js": "/Digital-Instruments/static/js/245.04564317.chunk.js",
+    "static/js/568.6741aacc.chunk.js": "/Digital-Instruments/static/js/568.6741aacc.chunk.js",
+    "module.wasm": "/Digital-Instruments/3e196d6532268c42956f.module.wasm",
+    "index.html": "/Digital-Instruments/index.html",
+    "main.d5e18b24.css.map": "/Digital-Instruments/static/css/main.d5e18b24.css.map",
+    "main.7bad6994.js.map": "/Digital-Instruments/static/js/main.7bad6994.js.map",
+    "994.9eeff600.chunk.js.map": "/Digital-Instruments/static/js/994.9eeff600.chunk.js.map",
+    "245.04564317.chunk.js.map": "/Digital-Instruments/static/js/245.04564317.chunk.js.map",
+    "568.6741aacc.chunk.js.map": "/Digital-Instruments/static/js/568.6741aacc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7325d5b6.css",
-    "static/js/main.cdb7c46e.js"
+    "static/css/main.d5e18b24.css",
+    "static/js/main.7bad6994.js"
   ]
 }
