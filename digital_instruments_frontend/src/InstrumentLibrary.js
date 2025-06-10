@@ -3,7 +3,7 @@ let InstrumentLibrary = {
     instruments: {
       "Demo Instrument": {
           "title": "Demo Instrument",
-          "img": "https://digitalinstruments.app/instruments.jpg",
+          "img": "https://nuri-g.github.io/Digital-Instruments/instruments.jpg",
           "description": "This instrument can play notes with the middle row of your keyboard.",
           "instrumentSound": {
               "overtoneRelativeAmplitudes": [
